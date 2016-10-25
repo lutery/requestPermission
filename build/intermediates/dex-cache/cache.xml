@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/lutery/Sln/Android/PermissionRequestDemo/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/Users/lutery/Sln/Android/PermissionRequestDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.0_f2453fea3d4f5a68e2cfedd13eec95cac7f84b1f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lutery/Sln/Android/PermissionRequestDemo/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/Users/lutery/Sln/Android/PermissionRequestDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.0_26f9e78f027cf980864b8b542eef7182e0bc71c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lutery/Sln/Android/PermissionRequestDemo/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/Users/lutery/Sln/Android/PermissionRequestDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.0_5fa6ffa4b1545356df100e70b8f257894bf71c52.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lutery/Sln/Android/PermissionRequestDemo/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/Users/lutery/Sln/Android/PermissionRequestDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.0_bf36ee24f57c89c33d32fc0b7df046e5a6aa3a6a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lutery/Sln/Android/PermissionRequestDemo/app/build/intermediates/exploded-aar/chchy.one/checkpermission2/0.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d8cb7d16673ec3e78d7213b8421c289269cede7c">
+        <dex dex="/Users/lutery/Sln/Android/PermissionRequestDemo/app/build/intermediates/pre-dexed/debug/chchy.one-checkpermission2-0.1.1_65f855eb6a00da3d3a22e5593f8cd87e4d8553c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lutery/Sln/Android/PermissionRequestDemo/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/Users/lutery/Sln/Android/PermissionRequestDemo/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_d335e267ddf078ae831869c228a612496d7e9d6a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lutery/Sln/Android/PermissionRequestDemo/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/Users/lutery/Sln/Android/PermissionRequestDemo/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.0_5ef45d199e851936f0ff00f5c78c57316f4276e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lutery/Sln/Android/PermissionRequestDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/Users/lutery/Sln/Android/PermissionRequestDemo/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.0_fb1238e30bc0238f01bd029b69050012f834f225.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lutery/Sln/Android/PermissionRequestDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/lutery/Sln/Android/PermissionRequestDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.0_51f91a9d5cfff2acebff8191f8f0b61a38a18fa5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lutery/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/Users/lutery/Sln/Android/PermissionRequestDemo/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.0_b52b5ae34420f65abce420acd89dd3ebe3d1b3cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lutery/Sln/Android/PermissionRequestDemo/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/Users/lutery/Sln/Android/PermissionRequestDemo/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_49f09244d1a9a132c41521ed900a952c2ce6697a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lutery/Sln/Android/PermissionRequestDemo/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/Users/lutery/Sln/Android/PermissionRequestDemo/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_f7e12b848621a446f25e2fe5d8eaec11c8690d2c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lutery/Sln/Android/PermissionRequestDemo/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/Users/lutery/Sln/Android/PermissionRequestDemo/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_4a7c7c6e792c6a4cfe6f886f77478e04f850895f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lutery/Sln/Android/PermissionRequestDemo/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/Users/lutery/Sln/Android/PermissionRequestDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.0_81865c2db17eb6cd2d451b68897f16ca971c410a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lutery/Sln/Android/PermissionRequestDemo/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/lutery/Sln/Android/PermissionRequestDemo/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_3a397a8e615be35da4a1c1abdbbf489719934ce2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lutery/Sln/Android/PermissionRequestDemo/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/Users/lutery/Sln/Android/PermissionRequestDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.0_b89caf7d9ab9fd444e739f618df517169d843300.jar" />
+    </item>
+
+</items>

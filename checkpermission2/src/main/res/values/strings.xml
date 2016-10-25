@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">checkPermission</string>
+    <string name="default_permission_tips">此功能需要授予权限，否则将无法正常使用</string>
+</resources>
