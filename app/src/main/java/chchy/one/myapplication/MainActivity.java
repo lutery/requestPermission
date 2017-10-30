@@ -5,6 +5,10 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.util.Log;
 
+import java.util.ArrayList;
+import java.util.List;
+import java.util.stream.Collectors;
+
 import chchy.one.checkpermission.PermissionCheck;
 import chchy.one.checkpermission.PermissionResult;
 
@@ -23,5 +27,11 @@ public class MainActivity extends AppCompatActivity {
                 Log.d(TAG, "resultCode = " + resultCode);
             }
         });
+
+//        List<String> testList = new ArrayList<>(){{add("1")}, {add("2")}, {add("3")}};
+//
+//        List<String> resList = testList.stream().filter(num -> num.equals("1")).collect(Collectors.toList());
+
+//        new Thread(() -> System.out.print("hello")).start();
     }
 }
