@@ -2,15 +2,15 @@ apply plugin: 'com.android.library'
 apply plugin: 'com.github.dcendents.android-maven'
 apply plugin: 'com.jfrog.bintray'
 
-version = "0.1.1"
+version = "1.0.2"
 
 def siteUrl = 'https://github.com/lutery/requestPermission'      // 项目的主页
 def gitUrl = 'https://github.com/lutery/requestPermission.git'   // Git仓库的url
-group = "chchy.one" // Maven Group ID for the artifact，一般填你唯一的包名
+group = "chchy.one.android" // Maven Group ID for the artifact，一般填你唯一的包名
 
 android {
     compileSdkVersion 25
-    buildToolsVersion "24.0.3"
+    buildToolsVersion '26.0.2'
 
     defaultConfig {
         minSdkVersion 15
@@ -27,6 +27,10 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
     }
+}
+
+tasks.withType(Javadoc) {
+    options.encoding = "UTF-8"
 }
 
 dependencies {
@@ -148,7 +152,7 @@ bintray {
 
     pkg {
 
-        repo = "androidTool"
+        repo = "maven"
 
         name = "requestPermission" //发布到JCenter上的项目名字
 

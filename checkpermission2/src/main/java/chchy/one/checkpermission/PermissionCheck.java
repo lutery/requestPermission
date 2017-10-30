@@ -86,4 +86,15 @@ public class PermissionCheck {
             return true;
         }
     }
+
+    public static boolean hasPermission(Context context, String checkPermission, PermissionResult permissionResult){
+        sPermissionResult = permissionResult;
+
+        if (Build.VERSION.SDK_INT > Build.VERSION_CODES.KITKAT && ContextCompat.checkSelfPermission(context, checkPermission) != PackageManager.PERMISSION_GRANTED){
+            return false;
+        }
+        else{
+            return true;
+        }
+    }
 }
